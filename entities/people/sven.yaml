@@ -1,0 +1,6 @@
+id: sven
+type: person
+name: "Sven"
+links:
+  - label: Homepage
+    url: https://svenfuchs.com
