@@ -6,3 +6,7 @@ organizers:
   - freiwillige-feuerwehr-schnackenburg
 places:
   - schnackenburg/osterfeuerplatz
+schedule: jeden Samstag vor dem Ostersonntag
+rule:
+  rrule: FREQ=YEARLY;BYEASTER=-1
+  start: 2026-04-04
