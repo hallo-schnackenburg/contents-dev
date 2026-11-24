@@ -1,0 +1,8 @@
+id: schnackenburg/osterfeuerplatz
+type: place
+parent: schnackenburg
+name: Osterfeuerplatz
+kind: square
+location:
+  lat: 53.0336871
+  lon: 11.5615774
