@@ -3,3 +3,6 @@ type: place
 parent: schnackenburg
 name: Aussichtsturm
 kind: other
+location:
+  lat: 53.0357992
+  lon: 11.5715912
