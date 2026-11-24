@@ -4,3 +4,5 @@ name: Osterfeuer
 recurring: true
 organizers:
   - freiwillige-feuerwehr-schnackenburg
+places:
+  - schnackenburg/osterfeuerplatz
