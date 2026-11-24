@@ -2,3 +2,5 @@ id: osterfeuer
 type: event
 name: Osterfeuer
 recurring: true
+organizers:
+  - freiwillige-feuerwehr-schnackenburg
