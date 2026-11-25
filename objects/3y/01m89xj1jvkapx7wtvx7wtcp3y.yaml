@@ -1,0 +1,35 @@
+id: 01m89xj1jvkapx7wtvx7wtcp3y
+type: object
+title: "Winter"
+kind: image
+files:
+  - role: main
+    original_name: DJI_20260105140220_0065_D.JPG
+    path: files/1d/97/1d973401841ad8f6d623da9247bc99b329ec224a4de986a98b563ea3315db8b0/original.jpg
+    sha256: 1d973401841ad8f6d623da9247bc99b329ec224a4de986a98b563ea3315db8b0
+    mime: image/jpeg
+    bytes: 14983168
+    width: 8192
+    height: 4608
+    variants:
+      - kind: preview
+        path: files/1d/97/1d973401841ad8f6d623da9247bc99b329ec224a4de986a98b563ea3315db8b0/preview-400.bae0f62f8d26.jpg
+        sha256: bae0f62f8d26d43b51a43f6d5faf9e279543b8f426c34685f28fa67cabeabb49
+        mime: image/jpeg
+        bytes: 56104
+        width: 400
+        height: 225
+        generator:
+          name: browser-canvas
+          version: "1"
+      - kind: web
+        path: files/1d/97/1d973401841ad8f6d623da9247bc99b329ec224a4de986a98b563ea3315db8b0/web-2000.f939a8422ef5.jpg
+        sha256: f939a8422ef5f135507e8ab66be71fc2318412bea0a64bd9a985a1e7e34cb468
+        mime: image/jpeg
+        bytes: 964204
+        width: 2000
+        height: 1125
+        generator:
+          name: browser-canvas
+          version: "1"
+subtype: photo
