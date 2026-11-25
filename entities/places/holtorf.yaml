@@ -2,7 +2,6 @@ id: holtorf
 type: place
 name: Holtorf
 kind: locality
-parent: schnackenburg
 location:
   lat: 52.98005
   lon: 11.54162

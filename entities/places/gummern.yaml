@@ -2,7 +2,6 @@ id: gummern
 type: place
 name: Gummern
 kind: locality
-parent: schnackenburg
 location:
   lat: 52.98566
   lon: 11.56991

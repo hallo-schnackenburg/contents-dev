@@ -2,7 +2,6 @@ id: schnackenburg/sonstige/faehranleger
 type: place
 name: Fähranleger Schnackenburg
 kind: other
-parent: schnackenburg
 location:
   lat: 52.99322
   lon: 11.55576

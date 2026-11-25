@@ -2,7 +2,6 @@ id: kapern
 type: place
 name: Kapern
 kind: locality
-parent: schnackenburg
 location:
   lat: 52.96907
   lon: 11.54554
