@@ -1,0 +1,8 @@
+id: schnackenburg/niedernstrasse/10
+type: place
+name: Niedernstraße 10
+kind: building
+parent: schnackenburg/niedernstrasse
+location:
+  lat: 52.98901
+  lon: 11.55729

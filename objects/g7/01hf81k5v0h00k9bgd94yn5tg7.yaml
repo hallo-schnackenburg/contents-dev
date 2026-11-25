@@ -1,0 +1,33 @@
+id: 01hf81k5v0h00k9bgd94yn5tg7
+type: object
+kind: image
+subtype: photo
+title: Fähranleger Schnackenburg bei Hochwasser
+alt: "Fähranleger Schnackenburg bei Hochwasser: Fahnen und Girlanden."
+origin:
+  by:
+    - juergen-jahnke
+license: gemeinfrei
+about:
+  - schnackenburg/sonstige/faehranleger
+  - freiwillige-feuerwehr-schnackenburg
+files:
+  - role: main
+    original_name: IMG_8179.jpg
+    path: files/3f/0e/3f0e9669845b8f214752fdf0a3ad663dd580a237fc0a66d320de1ad988f71d61/original.jpg
+    sha256: 3f0e9669845b8f214752fdf0a3ad663dd580a237fc0a66d320de1ad988f71d61
+    mime: image/jpeg
+    bytes: 6304023
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/3f/0e/3f0e9669845b8f214752fdf0a3ad663dd580a237fc0a66d320de1ad988f71d61/preview-400.0f792f8fac88.jpg
+        sha256: 0f792f8fac88939d72cf1f92a95f0ab8f5cf6cdfef8362ec2932550a8f3e134a
+        mime: image/jpeg
+        bytes: 40687
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

@@ -1,0 +1,34 @@
+id: 01hf81pv10e04xkc32h86212b8
+type: object
+kind: image
+subtype: photo
+title: Gewertsweg 12 in den Siebzigern
+alt: "Gewertsweg 12 nach der Restaurierung: ein weiter Blick über die Elbe."
+caption: Gewertsweg 12 in den Siebzigern, 2001.
+origin:
+  by:
+    - henning-ahrens
+license: alle-rechte-vorbehalten
+date: 1975-11-08
+about:
+  - schnackenburg/gewertsweg/12
+files:
+  - role: main
+    original_name: IMG_7541.jpg
+    path: files/0d/83/0d832e5cf7aa485f00779f5c4787c094eaf169f245af7b9daf128d55e8c93bcb/original.jpg
+    sha256: 0d832e5cf7aa485f00779f5c4787c094eaf169f245af7b9daf128d55e8c93bcb
+    mime: image/jpeg
+    bytes: 6662495
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0d/83/0d832e5cf7aa485f00779f5c4787c094eaf169f245af7b9daf128d55e8c93bcb/preview-400.399e6b03bf3f.jpg
+        sha256: 399e6b03bf3fe73805fd400ad8e38c99d722f7338776120104bb95a8832abdf2
+        mime: image/jpeg
+        bytes: 56355
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

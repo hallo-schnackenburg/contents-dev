@@ -1,0 +1,34 @@
+id: 01hf7ztde0qbyz7afe4r5n50ht
+type: object
+kind: image
+subtype: drawing
+title: Heimatverein Holtorf bei Hochwasser
+alt: "Heimatverein Holtorf am Deich: das Gebäude von der Straße aus."
+caption: Heimatverein Holtorf bei Hochwasser, 1985.
+origin:
+  by:
+    - wolfgang-niemann
+license: alle-rechte-vorbehalten
+date: 1960-01-20
+about:
+  - heimatverein-holtorf
+files:
+  - role: main
+    original_name: IMG_8263.png
+    path: files/17/32/17320545748861230a8b692208fe7535b0ad4a89ccfb902790c2509c7d42d63f/original.png
+    sha256: 17320545748861230a8b692208fe7535b0ad4a89ccfb902790c2509c7d42d63f
+    mime: image/png
+    bytes: 105015
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/17/32/17320545748861230a8b692208fe7535b0ad4a89ccfb902790c2509c7d42d63f/preview-400.15f71cc12170.png
+        sha256: 15f71cc12170171eb8dc1099dc39a2863456761776cbf288585f3a10fcb63ff4
+        mime: image/png
+        bytes: 32693
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

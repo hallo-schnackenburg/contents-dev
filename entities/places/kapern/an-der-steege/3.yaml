@@ -1,0 +1,8 @@
+id: kapern/an-der-steege/3
+type: place
+name: An der Steege 3
+kind: building
+parent: kapern/an-der-steege
+location:
+  lat: 52.9698
+  lon: 11.55478

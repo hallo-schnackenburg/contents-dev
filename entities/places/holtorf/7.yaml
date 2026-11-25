@@ -1,0 +1,8 @@
+id: holtorf/7
+type: place
+name: Holtorf 7
+kind: building
+parent: holtorf
+location:
+  lat: 52.9737
+  lon: 11.53583

@@ -1,0 +1,8 @@
+id: hafenfest-schnackenburg
+type: event
+name: Hafenfest Schnackenburg
+recurring: true
+organizers:
+  - friedrich-juergens
+places:
+  - schnackenburg/sonstige/aussichtspunkt

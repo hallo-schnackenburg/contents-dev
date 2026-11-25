@@ -1,0 +1,30 @@
+id: 01hf7yx3y0krkcwgkb7t4x67k7
+type: object
+kind: image
+subtype: photo
+title: Am Markt in den Siebzigern
+alt: "Am Markt von oben: ein weiter Blick über die Elbe."
+license: cc-by-sa-4.0
+date: 1977-01-06
+about:
+  - schnackenburg/am-markt
+files:
+  - role: main
+    original_name: IMG_2601.jpg
+    path: files/66/9b/669b4bdcc75081e81821f8c0ea0c128c1fc96677b8fb5066d547f529bea76812/original.jpg
+    sha256: 669b4bdcc75081e81821f8c0ea0c128c1fc96677b8fb5066d547f529bea76812
+    mime: image/jpeg
+    bytes: 4263846
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/66/9b/669b4bdcc75081e81821f8c0ea0c128c1fc96677b8fb5066d547f529bea76812/preview-400.13c64c504032.jpg
+        sha256: 13c64c5040321de922cc17e5902165532d1b2b6de5cda11db70beab9afbc657a
+        mime: image/jpeg
+        bytes: 49133
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

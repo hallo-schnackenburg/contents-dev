@@ -1,0 +1,16 @@
+id: 01hf7zw810vpey7tj1m63ab3g8
+type: object
+kind: audio
+title: Klaus Köhler am Deich
+caption: Klaus Köhler am Deich, 2001.
+license: cc-by-sa-4.0
+date: 2025-12-11
+about:
+  - klaus-koehler
+files:
+  - role: main
+    original_name: DOC_2201.mp3
+    path: files/72/7c/727cc523cc1eb96b8796973830878fa3d039daffc6dd01a1fb9d909da3b37524/original.mp3
+    sha256: 727cc523cc1eb96b8796973830878fa3d039daffc6dd01a1fb9d909da3b37524
+    mime: audio/mpeg
+    bytes: 408456

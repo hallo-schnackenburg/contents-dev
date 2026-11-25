@@ -1,0 +1,8 @@
+id: schnackenburg/gewertsweg/5
+type: place
+name: Gewertsweg 5
+kind: building
+parent: schnackenburg/gewertsweg
+location:
+  lat: 52.99585
+  lon: 11.55563

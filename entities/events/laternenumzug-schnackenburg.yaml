@@ -1,0 +1,8 @@
+id: laternenumzug-schnackenburg
+type: event
+name: Laternenumzug Schnackenburg
+recurring: true
+organizers:
+  - birgit-kaehlert
+places:
+  - schnackenburg/kindergarten

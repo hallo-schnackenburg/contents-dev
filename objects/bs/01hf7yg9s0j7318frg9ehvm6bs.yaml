@@ -1,0 +1,34 @@
+id: 01hf7yg9s0j7318frg9ehvm6bs
+type: object
+kind: image
+subtype: photo
+title: Flohmarkt Gummern am Deich
+alt: "Flohmarkt Gummern beim Aufbau: mehrere Menschen im Vordergrund."
+caption: Flohmarkt Gummern am Deich, 1976.
+origin:
+  by:
+    - rainer-harms
+license: alle-rechte-vorbehalten
+date: 1956-08-05
+about:
+  - flohmarkt-gummern
+files:
+  - role: main
+    original_name: IMG_6686.jpg
+    path: files/4d/75/4d75931728c092b2ab7f212e553c14abcf7a0060cefe0afe4171ba042ec9c672/original.jpg
+    sha256: 4d75931728c092b2ab7f212e553c14abcf7a0060cefe0afe4171ba042ec9c672
+    mime: image/jpeg
+    bytes: 244444
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/4d/75/4d75931728c092b2ab7f212e553c14abcf7a0060cefe0afe4171ba042ec9c672/preview-400.8c91d220bd0b.jpg
+        sha256: 8c91d220bd0b2a861efdb51ae235bc3860fc4f844ead7bfe13994029f493f06d
+        mime: image/jpeg
+        bytes: 26485
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

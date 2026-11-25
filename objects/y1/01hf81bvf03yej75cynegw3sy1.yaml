@@ -1,0 +1,32 @@
+id: 01hf81bvf03yej75cynegw3sy1
+type: object
+kind: image
+subtype: drawing
+title: Holtorf 2 von oben
+alt: "Holtorf 2 nach der Restaurierung: ein weiter Blick über die Elbe."
+caption: Holtorf 2 von oben, 2007.
+license: alle-rechte-vorbehalten
+date: 1988-04-18
+about:
+  - holtorf/2
+  - jugendfeuerwehr-schnackenburg
+files:
+  - role: main
+    original_name: IMG_2534.png
+    path: files/41/e0/41e0a6979dd3e0dc8b128ed513eb5d9fc98a0f57bf756b1db229c2c6278f7e83/original.png
+    sha256: 41e0a6979dd3e0dc8b128ed513eb5d9fc98a0f57bf756b1db229c2c6278f7e83
+    mime: image/png
+    bytes: 2649984
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/41/e0/41e0a6979dd3e0dc8b128ed513eb5d9fc98a0f57bf756b1db229c2c6278f7e83/preview-400.fd349e98353a.png
+        sha256: fd349e98353aa284b76526821a0c562d91f66c50339e687c76c8f43f566c3a77
+        mime: image/png
+        bytes: 54533
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

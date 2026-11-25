@@ -1,0 +1,18 @@
+id: 01hf82gfb0e7evdece62qr0ehb
+type: object
+kind: audio
+title: Elbuferlauf Kapern von oben
+origin:
+  by:
+    - matthias-ahrens
+license: cc-by-4.0
+date: 1968-01-08
+about:
+  - elbuferlauf-kapern
+files:
+  - role: main
+    original_name: DOC_4356.mp3
+    path: files/b0/49/b0493c59df06a7dd9c41c20d4c7b9f241a4307cf34644d24c395ad5786d87320/original.mp3
+    sha256: b0493c59df06a7dd9c41c20d4c7b9f241a4307cf34644d24c395ad5786d87320
+    mime: audio/mpeg
+    bytes: 167807

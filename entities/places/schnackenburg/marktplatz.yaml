@@ -1,0 +1,5 @@
+id: schnackenburg/marktplatz
+type: place
+name: Marktplatz
+kind: square
+parent: schnackenburg

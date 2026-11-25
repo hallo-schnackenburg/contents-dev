@@ -1,0 +1,33 @@
+id: 01hf81n0e055xaaaskzbvscr5k
+type: object
+kind: image
+subtype: photo
+title: Freiwillige Feuerwehr Holtorf beim Umzug
+alt: "Freiwillige Feuerwehr Holtorf nach der Restaurierung: das Gebäude von der Straße aus."
+origin:
+  by:
+    - christa-peters
+license: gemeinfrei
+date: 1977-02-13
+about:
+  - freiwillige-feuerwehr-holtorf
+files:
+  - role: main
+    original_name: IMG_3950.jpg
+    path: files/32/73/327399ffcf84ea1ed0a50ba2c16c1a65f64581b7b7f743fb8d2894012eda9495/original.jpg
+    sha256: 327399ffcf84ea1ed0a50ba2c16c1a65f64581b7b7f743fb8d2894012eda9495
+    mime: image/jpeg
+    bytes: 3184724
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/32/73/327399ffcf84ea1ed0a50ba2c16c1a65f64581b7b7f743fb8d2894012eda9495/preview-400.257553d521f6.jpg
+        sha256: 257553d521f65624a62880c10af61dc9eb614208087ea71853c300d9a2418c1e
+        mime: image/jpeg
+        bytes: 28810
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

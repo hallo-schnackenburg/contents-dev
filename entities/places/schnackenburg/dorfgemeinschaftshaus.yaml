@@ -1,0 +1,9 @@
+id: schnackenburg/dorfgemeinschaftshaus
+type: place
+name: Dorfgemeinschaftshaus Schnackenburg
+kind: building
+parent: schnackenburg/alter-postweg
+location:
+  lat: 52.99173
+  lon: 11.55669
+address: Alter Postweg 25, 29493 Schnackenburg

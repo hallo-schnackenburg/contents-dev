@@ -1,0 +1,34 @@
+id: 01hf8092602gkp200hxsav5ya8
+type: object
+kind: image
+subtype: photo
+title: Kulturverein Kapern von oben
+alt: "Kulturverein Kapern bei der Einweihung: das Gebäude von der Straße aus."
+origin:
+  by:
+    - wolfgang-pannier
+license: gemeinfrei
+date: 2006-09-17
+about:
+  - kulturverein-kapern
+  - kulturverein-schnackenburg
+files:
+  - role: main
+    original_name: IMG_7954.jpg
+    path: files/37/d3/37d3cbe67c8b736a8db7601019a4aba2a99d8854844ceadced260f97f84df1fd/original.jpg
+    sha256: 37d3cbe67c8b736a8db7601019a4aba2a99d8854844ceadced260f97f84df1fd
+    mime: image/jpeg
+    bytes: 6495810
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/37/d3/37d3cbe67c8b736a8db7601019a4aba2a99d8854844ceadced260f97f84df1fd/preview-400.e5679db088c5.jpg
+        sha256: e5679db088c5f7d2a88558efe9e056408e29bece6c56d6139c533efa5260c2c2
+        mime: image/jpeg
+        bytes: 52795
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

@@ -1,0 +1,8 @@
+id: schnackenburg/grenzlandmuseum
+type: place
+name: Grenzlandmuseum Schnackenburg
+kind: building
+parent: schnackenburg
+location:
+  lat: 52.99271
+  lon: 11.55516

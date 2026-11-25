@@ -1,0 +1,31 @@
+id: 01hf80j7502a77m4m7a5hc60cr
+type: object
+kind: image
+subtype: photo
+title: Kirchengemeinde Schnackenburg im Winter
+alt: "Kirchengemeinde Schnackenburg im Abendlicht: ein weiter Blick über die Elbe."
+caption: Kirchengemeinde Schnackenburg im Winter, 2024.
+license: cc0-1.0
+date: 1951-12-05
+about:
+  - kirchengemeinde-schnackenburg
+files:
+  - role: main
+    original_name: IMG_8246.jpg
+    path: files/92/25/92250af488407a01387714349d67c17e3f3d6e7117a6059b12fa15991e7573ff/original.jpg
+    sha256: 92250af488407a01387714349d67c17e3f3d6e7117a6059b12fa15991e7573ff
+    mime: image/jpeg
+    bytes: 7351469
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/92/25/92250af488407a01387714349d67c17e3f3d6e7117a6059b12fa15991e7573ff/preview-400.dae91803a88c.jpg
+        sha256: dae91803a88c730504944fedb73ea10114db81c263b3ac04512ed588c8c1ed32
+        mime: image/jpeg
+        bytes: 52266
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

@@ -1,0 +1,8 @@
+id: gummern/11
+type: place
+name: Gummern 11
+kind: building
+parent: gummern
+location:
+  lat: 52.98892
+  lon: 11.57534

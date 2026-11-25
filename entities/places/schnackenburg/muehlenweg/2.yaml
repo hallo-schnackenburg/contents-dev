@@ -1,0 +1,8 @@
+id: schnackenburg/muehlenweg/2
+type: place
+name: Mühlenweg 2
+kind: building
+parent: schnackenburg/muehlenweg
+location:
+  lat: 52.98976
+  lon: 11.56051

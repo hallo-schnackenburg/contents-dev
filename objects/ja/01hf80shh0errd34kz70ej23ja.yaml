@@ -1,0 +1,20 @@
+id: 01hf80shh0errd34kz70ej23ja
+type: object
+kind: document
+subtype: letter
+title: Gemeinde Holtorf bei der Einweihung
+caption: Gemeinde Holtorf bei der Einweihung, 1991.
+origin:
+  by:
+    - gisela-seeger
+license: cc-by-4.0
+about:
+  - gemeinde-holtorf
+files:
+  - role: page
+    num: 1
+    original_name: DOC_3411.pdf
+    path: files/8a/3c/8a3cc9af85c76469396d0c4baeb446384a68914583f6eb93b648813304ce4fe7/original.pdf
+    sha256: 8a3cc9af85c76469396d0c4baeb446384a68914583f6eb93b648813304ce4fe7
+    mime: application/pdf
+    bytes: 6753804

@@ -1,0 +1,31 @@
+id: 01hf818690bh870z1t9hg1c0m8
+type: object
+kind: image
+subtype: photo
+title: Aussichtspunkt Schnackenburg von oben
+alt: "Aussichtspunkt Schnackenburg beim Umzug: mehrere Menschen im Vordergrund."
+caption: Aussichtspunkt Schnackenburg von oben, 2018.
+license: gemeinfrei
+date: 2010-06-11
+about:
+  - schnackenburg/sonstige/aussichtspunkt
+files:
+  - role: main
+    original_name: IMG_4317.jpg
+    path: files/31/4f/314faefd2deaa066779ffaf800625fc9cec65106f0c1b8e5e88bcafa5e9b4316/original.jpg
+    sha256: 314faefd2deaa066779ffaf800625fc9cec65106f0c1b8e5e88bcafa5e9b4316
+    mime: image/jpeg
+    bytes: 6887116
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/31/4f/314faefd2deaa066779ffaf800625fc9cec65106f0c1b8e5e88bcafa5e9b4316/preview-400.2fe8cc09902d.jpg
+        sha256: 2fe8cc09902d1832c89fc301c821ec0a95ab03a637610f87f6087c62c5ec79b6
+        mime: image/jpeg
+        bytes: 41664
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

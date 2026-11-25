@@ -1,0 +1,18 @@
+id: 01hf7zy2m0jqk8hxj6pd1a2361
+type: object
+kind: document
+subtype: letter
+title: Dorfstraße 7 bei Hochwasser
+caption: Dorfstraße 7 bei Hochwasser, 2010.
+license: cc-by-sa-4.0
+date: 1983-11-02
+about:
+  - kapern/dorfstrasse/7
+files:
+  - role: page
+    num: 1
+    original_name: DOC_1049.pdf
+    path: files/f8/73/f873e3c6ae52158d45e6b304a82a73694d7fbb7dd28a56e47ab456eedd0a0e0d/original.pdf
+    sha256: f873e3c6ae52158d45e6b304a82a73694d7fbb7dd28a56e47ab456eedd0a0e0d
+    mime: application/pdf
+    bytes: 2082767

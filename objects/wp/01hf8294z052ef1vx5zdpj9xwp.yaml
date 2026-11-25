@@ -1,0 +1,31 @@
+id: 01hf8294z052ef1vx5zdpj9xwp
+type: object
+kind: image
+subtype: photo
+title: Alandstraße am Deich
+alt: "Alandstraße in den Siebzigern: mehrere Menschen im Vordergrund."
+caption: Alandstraße am Deich, 2014.
+license: cc-by-4.0
+date: 2002-02-12
+about:
+  - schnackenburg/alandstrasse
+files:
+  - role: main
+    original_name: IMG_9907.jpg
+    path: files/90/90/90900b3aa11c08a75796e98a34878ec8e7b647756fa55ad9778c903492711886/original.jpg
+    sha256: 90900b3aa11c08a75796e98a34878ec8e7b647756fa55ad9778c903492711886
+    mime: image/jpeg
+    bytes: 4175327
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/90/90/90900b3aa11c08a75796e98a34878ec8e7b647756fa55ad9778c903492711886/preview-400.8a23392ff3d2.jpg
+        sha256: 8a23392ff3d250f58ceffe35b60cd3c1a6fc97c9e9e38a08155ac9ee337edb46
+        mime: image/jpeg
+        bytes: 26069
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

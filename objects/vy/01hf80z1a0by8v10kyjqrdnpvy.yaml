@@ -1,0 +1,33 @@
+id: 01hf80z1a0by8v10kyjqrdnpvy
+type: object
+kind: image
+subtype: photo
+title: Gewertsweg 5 beim Aufbau
+alt: "Gewertsweg 5 in den Siebzigern: ein weiter Blick über die Elbe."
+caption: Gewertsweg 5 beim Aufbau, 1987.
+origin:
+  by:
+    - klaus-koehler
+license: cc-by-sa-4.0
+about:
+  - schnackenburg/gewertsweg/5
+files:
+  - role: main
+    original_name: IMG_5119.jpg
+    path: files/cd/86/cd864a7ef89daecb9c25632bc6e8af6f3027eb8026be087f072a6e04617e7f82/original.jpg
+    sha256: cd864a7ef89daecb9c25632bc6e8af6f3027eb8026be087f072a6e04617e7f82
+    mime: image/jpeg
+    bytes: 277445
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/cd/86/cd864a7ef89daecb9c25632bc6e8af6f3027eb8026be087f072a6e04617e7f82/preview-400.7cd0bfd5180f.jpg
+        sha256: 7cd0bfd5180f68d2d714182c87c3ef13f00db1175b299df772af190d457b1bd2
+        mime: image/jpeg
+        bytes: 58931
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

@@ -1,0 +1,33 @@
+id: 01hf82qsq0f65xvyvdmyhwkztf
+type: object
+kind: image
+subtype: photo
+title: Tag des offenen Denkmals Schnackenburg beim Umzug
+alt: "Tag des offenen Denkmals Schnackenburg in den Siebzigern: Fahnen und Girlanden."
+origin:
+  by:
+    - renate-voss
+license: alle-rechte-vorbehalten
+date: 1987-09-26
+about:
+  - tag-des-offenen-denkmals-schnackenburg
+files:
+  - role: main
+    original_name: IMG_3215.jpg
+    path: files/60/60/6060d11015036c8cb6aae028b15d17f6c914e4b54171c850733a03f85ee808b8/original.jpg
+    sha256: 6060d11015036c8cb6aae028b15d17f6c914e4b54171c850733a03f85ee808b8
+    mime: image/jpeg
+    bytes: 7527835
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/60/60/6060d11015036c8cb6aae028b15d17f6c914e4b54171c850733a03f85ee808b8/preview-400.af7c9ac99a98.jpg
+        sha256: af7c9ac99a98900863de8806d3f5ec942ac97029d6172b881396ab4d31a49ff5
+        mime: image/jpeg
+        bytes: 31144
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

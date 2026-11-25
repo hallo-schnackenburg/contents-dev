@@ -1,0 +1,32 @@
+id: 01hf7ycmk0ssffkbmz7qz0ap5h
+type: object
+kind: image
+subtype: photo
+title: An der Steege 3 im Abendlicht
+alt: "An der Steege 3 von oben: ein weiter Blick über die Elbe."
+origin:
+  by:
+    - heike-ahrens
+license: cc-by-4.0
+about:
+  - kapern/an-der-steege/3
+files:
+  - role: main
+    original_name: IMG_9336.jpg
+    path: files/dc/c2/dcc2802e0d9b196fd3fc023e4bc0b13de0f32df4b6801526c167ebb5d936848e/original.jpg
+    sha256: dcc2802e0d9b196fd3fc023e4bc0b13de0f32df4b6801526c167ebb5d936848e
+    mime: image/jpeg
+    bytes: 1491330
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/dc/c2/dcc2802e0d9b196fd3fc023e4bc0b13de0f32df4b6801526c167ebb5d936848e/preview-400.128e73a3bdfd.jpg
+        sha256: 128e73a3bdfdbfdc2dae71cf548140f91f4d94c07f6dff0f662e843c66a5609d
+        mime: image/jpeg
+        bytes: 36621
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

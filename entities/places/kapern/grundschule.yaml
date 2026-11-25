@@ -1,0 +1,9 @@
+id: kapern/grundschule
+type: place
+name: Grundschule Kapern
+kind: building
+parent: kapern/an-der-steege
+location:
+  lat: 52.97038
+  lon: 11.54708
+address: An der Steege 3, 29493 Kapern

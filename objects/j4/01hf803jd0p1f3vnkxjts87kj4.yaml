@@ -1,0 +1,34 @@
+id: 01hf803jd0p1f3vnkxjts87kj4
+type: object
+kind: image
+subtype: photo
+title: Gartenstraße am Deich
+alt: "Gartenstraße beim Umzug: mehrere Menschen im Vordergrund."
+caption: Gartenstraße am Deich, 2024.
+origin:
+  by:
+    - detlef-thiele
+license: cc0-1.0
+date: 1988-02-25
+about:
+  - schnackenburg/gartenstrasse
+files:
+  - role: main
+    original_name: IMG_5623.jpg
+    path: files/1d/24/1d241ff6204c33fc622e4a279adbf8df83b56dfc618bc443c3a3715e94fbc1f6/original.jpg
+    sha256: 1d241ff6204c33fc622e4a279adbf8df83b56dfc618bc443c3a3715e94fbc1f6
+    mime: image/jpeg
+    bytes: 905010
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/1d/24/1d241ff6204c33fc622e4a279adbf8df83b56dfc618bc443c3a3715e94fbc1f6/preview-400.aa3aa0187b8c.jpg
+        sha256: aa3aa0187b8c4ed227d223a61e64eb43707fd7c4f919b0860e642dce62a80f3c
+        mime: image/jpeg
+        bytes: 37197
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

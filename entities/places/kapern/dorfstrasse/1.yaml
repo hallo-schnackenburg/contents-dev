@@ -1,0 +1,8 @@
+id: kapern/dorfstrasse/1
+type: place
+name: Dorfstraße 1
+kind: building
+parent: kapern/dorfstrasse
+location:
+  lat: 52.9712
+  lon: 11.54726

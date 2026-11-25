@@ -1,0 +1,8 @@
+id: gemeinde-holtorf
+type: organization
+name: Gemeinde Holtorf
+places:
+  - holtorf/sonstige/elbdeich
+links:
+  - label: Webseite
+    url: https://example.org/gemeinde-holtorf

@@ -1,0 +1,33 @@
+id: 01hf82azj0cf7417qj053vyndg
+type: object
+kind: image
+subtype: drawing
+title: Dorfstraße 7 beim Aufbau
+alt: "Dorfstraße 7 im Abendlicht: Fahnen und Girlanden."
+origin:
+  by:
+    - detlef-thiele
+license: alle-rechte-vorbehalten
+date: 2006-03-13
+about:
+  - kapern/dorfstrasse/7
+files:
+  - role: main
+    original_name: IMG_5136.png
+    path: files/e9/36/e936849d1ecce846b9d985aa5d63c091a767be7d53fbb0b0e89f24d45f1e8ca6/original.png
+    sha256: e936849d1ecce846b9d985aa5d63c091a767be7d53fbb0b0e89f24d45f1e8ca6
+    mime: image/png
+    bytes: 2071933
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/e9/36/e936849d1ecce846b9d985aa5d63c091a767be7d53fbb0b0e89f24d45f1e8ca6/preview-400.fe3da3842976.png
+        sha256: fe3da38429766a2c92a324354481ede86145b30c104678b2306cdd82d4b045ed
+        mime: image/png
+        bytes: 39308
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

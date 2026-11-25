@@ -1,0 +1,8 @@
+id: schnackenburg/alter-postweg/4
+type: place
+name: Alter Postweg 4
+kind: building
+parent: schnackenburg/alter-postweg
+location:
+  lat: 52.99316
+  lon: 11.554

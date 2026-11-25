@@ -1,0 +1,31 @@
+id: 01hf80vc40d4rsg1v12hrvkfpd
+type: object
+kind: image
+subtype: photo
+title: Renate Voss beim Aufbau
+alt: "Renate Voss bei Hochwasser: ein weiter Blick über die Elbe."
+license: cc-by-4.0
+date: 2004-01-10
+about:
+  - renate-voss
+  - gisela-fricke
+files:
+  - role: main
+    original_name: IMG_5153.jpg
+    path: files/09/1d/091db2e4084606793b85c14d05e9787ae4e13b7f2ac1a2d282f6759f7c25f6f0/original.jpg
+    sha256: 091db2e4084606793b85c14d05e9787ae4e13b7f2ac1a2d282f6759f7c25f6f0
+    mime: image/jpeg
+    bytes: 4834024
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/09/1d/091db2e4084606793b85c14d05e9787ae4e13b7f2ac1a2d282f6759f7c25f6f0/preview-400.f0a7462b4172.jpg
+        sha256: f0a7462b41722c0fa4eadfa67423f02034af143b993f9c1f008506059c6135d2
+        mime: image/jpeg
+        bytes: 50567
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

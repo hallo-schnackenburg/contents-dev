@@ -1,0 +1,35 @@
+id: 01hf81wat0wdcc5wxfz659zn0z
+type: object
+kind: image
+subtype: photo
+title: Fährfest Gummern im Winter
+alt: "Fährfest Gummern von oben: ein weiter Blick über die Elbe."
+caption: Fährfest Gummern im Winter, 1960.
+origin:
+  by:
+    - friedrich-juergens
+license: cc-by-4.0
+date: 1964-12-12
+about:
+  - faehrfest-gummern
+  - schnackenburg/niedernstrasse/6
+files:
+  - role: main
+    original_name: IMG_4338.jpg
+    path: files/f7/c1/f7c114d2298d1c97e970108ec7906fae090200ea7980eeb6bab893cc37835747/original.jpg
+    sha256: f7c114d2298d1c97e970108ec7906fae090200ea7980eeb6bab893cc37835747
+    mime: image/jpeg
+    bytes: 848689
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/f7/c1/f7c114d2298d1c97e970108ec7906fae090200ea7980eeb6bab893cc37835747/preview-400.762ff7b71d81.jpg
+        sha256: 762ff7b71d814c2623b07a2d418d81babf3f005c51abdd3d38ccdfa2a13f3322
+        mime: image/jpeg
+        bytes: 54558
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

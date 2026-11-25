@@ -1,0 +1,8 @@
+id: schnackenburg/kirchstrasse/1
+type: place
+name: Kirchstraße 1
+kind: building
+parent: schnackenburg/kirchstrasse
+location:
+  lat: 52.9879
+  lon: 11.55432

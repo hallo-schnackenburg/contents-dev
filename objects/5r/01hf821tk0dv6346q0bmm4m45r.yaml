@@ -1,0 +1,35 @@
+id: 01hf821tk0dv6346q0bmm4m45r
+type: object
+kind: image
+subtype: photo
+title: Niedernstraße 12 im Winter
+alt: "Niedernstraße 12 bei der Einweihung: ein weiter Blick über die Elbe."
+caption: Niedernstraße 12 im Winter, 1971.
+origin:
+  by:
+    - lars-niemann
+license: cc-by-4.0
+date: 1999-02-23
+about:
+  - schnackenburg/niedernstrasse/12
+  - antje-bockelmann
+files:
+  - role: main
+    original_name: IMG_8958.jpg
+    path: files/9c/d3/9cd3efd63c23b5057d7fd7947dd845672b087a664f5aef0874a7ec0d133dcb12/original.jpg
+    sha256: 9cd3efd63c23b5057d7fd7947dd845672b087a664f5aef0874a7ec0d133dcb12
+    mime: image/jpeg
+    bytes: 5562466
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/9c/d3/9cd3efd63c23b5057d7fd7947dd845672b087a664f5aef0874a7ec0d133dcb12/preview-400.2cd6ba898b77.jpg
+        sha256: 2cd6ba898b77d59d2da23968f0b47688bf2a9b5ef3c3048195b02d71794e7b0a
+        mime: image/jpeg
+        bytes: 33183
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

@@ -1,0 +1,16 @@
+id: 01hf80ehz0bpdca6qyze9501j1
+type: object
+kind: video
+title: Kirchengemeinde Schnackenburg im Winter
+caption: Kirchengemeinde Schnackenburg im Winter, 2017.
+license: cc0-1.0
+date: 1976-09-21
+about:
+  - kirchengemeinde-schnackenburg
+files:
+  - role: main
+    original_name: DOC_5611.mp4
+    path: files/0b/49/0b4945be026424fe5ab5bf83ca5c8eee6385d8c08cc1071f5a282561ac4ba9c7/original.mp4
+    sha256: 0b4945be026424fe5ab5bf83ca5c8eee6385d8c08cc1071f5a282561ac4ba9c7
+    mime: video/mp4
+    bytes: 7819879

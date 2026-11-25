@@ -1,0 +1,9 @@
+id: schnackenburg/feuerwehrhaus
+type: place
+name: Feuerwehrhaus Schnackenburg
+kind: building
+parent: schnackenburg/gartenstrasse
+location:
+  lat: 52.99388
+  lon: 11.55511
+address: Gartenstraße 22, 29493 Schnackenburg

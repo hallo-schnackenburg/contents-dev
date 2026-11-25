@@ -1,0 +1,8 @@
+id: kapern/dorfstrasse/7
+type: place
+name: Dorfstraße 7
+kind: building
+parent: kapern/dorfstrasse
+location:
+  lat: 52.96855
+  lon: 11.55322

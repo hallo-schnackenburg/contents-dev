@@ -1,0 +1,21 @@
+id: 01hf82emr0t1x69awjjfe7w0np
+type: object
+kind: document
+subtype: letter
+title: Dorfstraße 12 bei Hochwasser
+caption: Dorfstraße 12 bei Hochwasser, 2012.
+origin:
+  by:
+    - christa-oetjen
+license: cc0-1.0
+date: 1976-10-15
+about:
+  - kapern/dorfstrasse/12
+files:
+  - role: page
+    num: 1
+    original_name: DOC_4349.pdf
+    path: files/cf/71/cf71d366d4e935ecc518a6f4beade657bf5ad9860f766da5fe9147129af7d979/original.pdf
+    sha256: cf71d366d4e935ecc518a6f4beade657bf5ad9860f766da5fe9147129af7d979
+    mime: application/pdf
+    bytes: 5554012

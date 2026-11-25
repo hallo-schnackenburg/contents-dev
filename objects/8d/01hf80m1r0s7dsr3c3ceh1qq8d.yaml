@@ -1,0 +1,33 @@
+id: 01hf80m1r0s7dsr3c3ceh1qq8d
+type: object
+kind: image
+subtype: drawing
+title: An der Steege 8 im Winter
+alt: "An der Steege 8 im Abendlicht: mehrere Menschen im Vordergrund."
+caption: An der Steege 8 im Winter, 2017.
+origin:
+  by:
+    - wolfgang-pannier
+license: gemeinfrei
+about:
+  - kapern/an-der-steege/8
+files:
+  - role: main
+    original_name: IMG_3176.png
+    path: files/88/8a/888a30061208e73c2be5744a46178a001eca378b5aaed4d963f2466a0519b6cb/original.png
+    sha256: 888a30061208e73c2be5744a46178a001eca378b5aaed4d963f2466a0519b6cb
+    mime: image/png
+    bytes: 2670683
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/88/8a/888a30061208e73c2be5744a46178a001eca378b5aaed4d963f2466a0519b6cb/preview-400.92b89eff53a0.png
+        sha256: 92b89eff53a048785fa211a075316206e3b1436ae384ed52b13b02e1190c3839
+        mime: image/png
+        bytes: 45110
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

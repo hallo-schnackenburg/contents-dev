@@ -1,0 +1,34 @@
+id: 01hf810vx07rbh7waq1avwk8sq
+type: object
+kind: image
+subtype: photo
+title: Holtorf 2 im Winter
+alt: "Holtorf 2 am Deich: Fahnen und Girlanden."
+origin:
+  by:
+    - sabine-peters
+license: gemeinfrei
+date: 1955-09-23
+about:
+  - holtorf/2
+  - schnackenburg/muehlenweg/3
+files:
+  - role: main
+    original_name: IMG_8598.jpg
+    path: files/3d/0f/3d0f0fb960fd802bb378760d30c886360b2fff37e4747f2eeaa16c57eaad4491/original.jpg
+    sha256: 3d0f0fb960fd802bb378760d30c886360b2fff37e4747f2eeaa16c57eaad4491
+    mime: image/jpeg
+    bytes: 8071752
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/3d/0f/3d0f0fb960fd802bb378760d30c886360b2fff37e4747f2eeaa16c57eaad4491/preview-400.5968c70901a7.jpg
+        sha256: 5968c70901a796c589e71cfba41011e897e0b4df91fef2d671c4be7e3eb8f747
+        mime: image/jpeg
+        bytes: 49922
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

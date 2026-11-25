@@ -1,0 +1,33 @@
+id: 01hf80qpy0sjz9915byrgxc2ev
+type: object
+kind: image
+subtype: drawing
+title: Klaus Köhler bei der Einweihung
+alt: "Klaus Köhler nach der Restaurierung: Fahnen und Girlanden."
+caption: Klaus Köhler bei der Einweihung, 2024.
+origin:
+  by:
+    - elke-pannier
+license: alle-rechte-vorbehalten
+about:
+  - klaus-koehler
+files:
+  - role: main
+    original_name: IMG_7601.png
+    path: files/ac/11/ac11f9ec1e7cd9bf248ecad6335a145b3959f7d91978c89a27b5c4d661cdb870/original.png
+    sha256: ac11f9ec1e7cd9bf248ecad6335a145b3959f7d91978c89a27b5c4d661cdb870
+    mime: image/png
+    bytes: 1657848
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/ac/11/ac11f9ec1e7cd9bf248ecad6335a145b3959f7d91978c89a27b5c4d661cdb870/preview-400.8ced1dcb43c3.png
+        sha256: 8ced1dcb43c3f23a8d803196a3ac1800a000261765387b62c7fcdb4ae78d1458
+        mime: image/png
+        bytes: 26994
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

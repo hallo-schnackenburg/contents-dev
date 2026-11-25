@@ -1,0 +1,9 @@
+id: gummern/kindergarten
+type: place
+name: Kindergarten Gummern
+kind: building
+parent: gummern
+location:
+  lat: 52.98745
+  lon: 11.57684
+address: Gummern 23, 29493 Gummern

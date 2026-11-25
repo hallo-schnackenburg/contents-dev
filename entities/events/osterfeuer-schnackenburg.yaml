@@ -1,0 +1,10 @@
+id: osterfeuer-schnackenburg
+type: event
+name: Osterfeuer Schnackenburg
+dates:
+  - start: 2026-08-25
+organizers:
+  - frank-ulrich
+  - klaus-koehler
+places:
+  - schnackenburg/sonstige/badestelle

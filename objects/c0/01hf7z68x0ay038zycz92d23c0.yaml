@@ -1,0 +1,32 @@
+id: 01hf7z68x0ay038zycz92d23c0
+type: object
+kind: image
+subtype: photo
+title: Gemeinde Schnackenburg in den Siebzigern
+alt: "Gemeinde Schnackenburg beim Aufbau: ein weiter Blick über die Elbe."
+origin:
+  by:
+    - hans-rieger
+license: cc-by-sa-4.0
+about:
+  - gemeinde-schnackenburg
+files:
+  - role: main
+    original_name: IMG_4482.jpg
+    path: files/c5/40/c5403dd169eb2bbef0b3e660d35b5ba4a34ab835fc1945bf20789b394af31044/original.jpg
+    sha256: c5403dd169eb2bbef0b3e660d35b5ba4a34ab835fc1945bf20789b394af31044
+    mime: image/jpeg
+    bytes: 1777380
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/c5/40/c5403dd169eb2bbef0b3e660d35b5ba4a34ab835fc1945bf20789b394af31044/preview-400.6f5328405051.jpg
+        sha256: 6f532840505133e34e411d7467aeb451e45a7be362c1babe688bd6ed3d2f6088
+        mime: image/jpeg
+        bytes: 25787
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

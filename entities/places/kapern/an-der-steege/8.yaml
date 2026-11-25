@@ -1,0 +1,8 @@
+id: kapern/an-der-steege/8
+type: place
+name: An der Steege 8
+kind: building
+parent: kapern/an-der-steege
+location:
+  lat: 52.96653
+  lon: 11.54734

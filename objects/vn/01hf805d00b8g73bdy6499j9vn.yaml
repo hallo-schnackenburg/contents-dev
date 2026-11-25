@@ -1,0 +1,33 @@
+id: 01hf805d00b8g73bdy6499j9vn
+type: object
+kind: image
+subtype: photo
+title: Posaunenchor Kapern am Deich
+alt: "Posaunenchor Kapern bei der Einweihung: Fahnen und Girlanden."
+origin:
+  by:
+    - matthias-ahrens
+license: cc-by-4.0
+date: 2016-12-01
+about:
+  - posaunenchor-kapern
+files:
+  - role: main
+    original_name: IMG_8077.jpg
+    path: files/74/31/7431fac45a1321a5cc4fee4d194609dfc3138cc48ad95c55f5a3bf9439ca2aaf/original.jpg
+    sha256: 7431fac45a1321a5cc4fee4d194609dfc3138cc48ad95c55f5a3bf9439ca2aaf
+    mime: image/jpeg
+    bytes: 8341932
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/74/31/7431fac45a1321a5cc4fee4d194609dfc3138cc48ad95c55f5a3bf9439ca2aaf/preview-400.1a9d8bd3ceab.jpg
+        sha256: 1a9d8bd3ceabc0fdd18875b368f8cb3c5bb1e98e8e78579222aff9a331217a19
+        mime: image/jpeg
+        bytes: 26055
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

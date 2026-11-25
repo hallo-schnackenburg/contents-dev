@@ -1,0 +1,30 @@
+id: 01hf80aws0hkd23893e9g489qm
+type: object
+kind: image
+subtype: photo
+title: Renate Voss am Deich
+alt: "Renate Voss bei Hochwasser: ein weiter Blick über die Elbe."
+license: cc-by-4.0
+date: 1975-02-06
+about:
+  - renate-voss
+files:
+  - role: main
+    original_name: IMG_6161.jpg
+    path: files/25/15/25158610d2f5afafaa2d205bff8a3e866b5c505b7744486309933c45b0ca7132/original.jpg
+    sha256: 25158610d2f5afafaa2d205bff8a3e866b5c505b7744486309933c45b0ca7132
+    mime: image/jpeg
+    bytes: 2252476
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/25/15/25158610d2f5afafaa2d205bff8a3e866b5c505b7744486309933c45b0ca7132/preview-400.f1541968a706.jpg
+        sha256: f1541968a7068a5d1ed26a1d9df46c12aa66f9e3c554960d9c2ee5da335e85b6
+        mime: image/jpeg
+        bytes: 32094
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

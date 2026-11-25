@@ -1,0 +1,9 @@
+id: tag-des-offenen-denkmals-schnackenburg
+type: event
+name: Tag des offenen Denkmals Schnackenburg
+recurring: true
+organizers:
+  - rainer-kruse
+  - birgit-seeger
+places:
+  - schnackenburg/dorfgemeinschaftshaus

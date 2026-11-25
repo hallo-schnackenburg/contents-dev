@@ -1,0 +1,32 @@
+id: 01hf7zzx70gknqhvrqdmvqvbgx
+type: object
+kind: image
+subtype: photo
+title: Gemeinde Gummern von oben
+alt: "Gemeinde Gummern von oben: ein weiter Blick über die Elbe."
+caption: Gemeinde Gummern von oben, 1956.
+license: alle-rechte-vorbehalten
+date: 2009-06-03
+about:
+  - gemeinde-gummern
+  - dieter-maass
+files:
+  - role: main
+    original_name: IMG_4326.jpg
+    path: files/07/bc/07bcb1e73f26e4afc567787c76354e73d1592e7c5997fc902094014016b1525c/original.jpg
+    sha256: 07bcb1e73f26e4afc567787c76354e73d1592e7c5997fc902094014016b1525c
+    mime: image/jpeg
+    bytes: 4910532
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/07/bc/07bcb1e73f26e4afc567787c76354e73d1592e7c5997fc902094014016b1525c/preview-400.91fc09b79d87.jpg
+        sha256: 91fc09b79d87508191ba19f8196626a2584e7082b9e2832c620f24796a9ffe53
+        mime: image/jpeg
+        bytes: 26776
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

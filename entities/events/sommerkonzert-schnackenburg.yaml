@@ -1,0 +1,10 @@
+id: sommerkonzert-schnackenburg
+type: event
+name: Sommerkonzert Schnackenburg
+dates:
+  - start: 2026-07-20
+organizers:
+  - frank-juergens
+  - sabine-peters
+places:
+  - schnackenburg/sonstige/badestelle

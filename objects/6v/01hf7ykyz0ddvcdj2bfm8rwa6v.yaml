@@ -1,0 +1,31 @@
+id: 01hf7ykyz0ddvcdj2bfm8rwa6v
+type: object
+kind: image
+subtype: photo
+title: Kulturverein Schnackenburg bei der Einweihung
+alt: "Kulturverein Schnackenburg im Abendlicht: ein weiter Blick über die Elbe."
+caption: Kulturverein Schnackenburg bei der Einweihung, 2017.
+license: cc-by-sa-4.0
+date: 1984-12-17
+about:
+  - kulturverein-schnackenburg
+files:
+  - role: main
+    original_name: IMG_2806.jpg
+    path: files/92/96/929646c5ae3c77fb28b497fe33c08a92f02d999ba1d2762e596323bed0554e17/original.jpg
+    sha256: 929646c5ae3c77fb28b497fe33c08a92f02d999ba1d2762e596323bed0554e17
+    mime: image/jpeg
+    bytes: 7047655
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/92/96/929646c5ae3c77fb28b497fe33c08a92f02d999ba1d2762e596323bed0554e17/preview-400.563866437393.jpg
+        sha256: 563866437393074024d6338dfcc49fc6a2652b3539afc30ad676ce104c0acbac
+        mime: image/jpeg
+        bytes: 25649
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

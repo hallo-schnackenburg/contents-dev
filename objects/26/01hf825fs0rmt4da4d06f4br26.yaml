@@ -1,0 +1,34 @@
+id: 01hf825fs0rmt4da4d06f4br26
+type: object
+kind: image
+subtype: photo
+title: Dorfstraße 1 im Abendlicht
+alt: "Dorfstraße 1 im Winter: ein weiter Blick über die Elbe."
+caption: Dorfstraße 1 im Abendlicht, 2008.
+origin:
+  by:
+    - bernd-kaehlert
+license: gemeinfrei
+date: 2016-08-09
+about:
+  - kapern/dorfstrasse/1
+files:
+  - role: main
+    original_name: IMG_5855.jpg
+    path: files/67/26/6726fa0b488d23b679075c883c182b074860d65553c25c87015b6ad29e1f80ce/original.jpg
+    sha256: 6726fa0b488d23b679075c883c182b074860d65553c25c87015b6ad29e1f80ce
+    mime: image/jpeg
+    bytes: 4635959
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/67/26/6726fa0b488d23b679075c883c182b074860d65553c25c87015b6ad29e1f80ce/preview-400.6ccbe219e7f5.jpg
+        sha256: 6ccbe219e7f50fbd904bee6ef17c2b0cbfc65ab4e0f85635bd0836336359329c
+        mime: image/jpeg
+        bytes: 37862
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

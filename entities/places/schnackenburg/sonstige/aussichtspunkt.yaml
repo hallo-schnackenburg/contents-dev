@@ -1,0 +1,8 @@
+id: schnackenburg/sonstige/aussichtspunkt
+type: place
+name: Aussichtspunkt Schnackenburg
+kind: other
+parent: schnackenburg
+location:
+  lat: 52.98857
+  lon: 11.56297

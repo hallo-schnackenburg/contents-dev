@@ -1,0 +1,34 @@
+id: 01hf816bp00jqfap4b60a5hqjp
+type: object
+kind: image
+subtype: photo
+title: Holtorf 11 in den Siebzigern
+alt: "Holtorf 11 beim Aufbau: Fahnen und Girlanden."
+origin:
+  by:
+    - elke-pannier
+license: cc-by-sa-4.0
+date: 2003-08-19
+about:
+  - holtorf/11
+  - schnackenburg/muehlenweg/3
+files:
+  - role: main
+    original_name: IMG_7946.jpg
+    path: files/c9/ec/c9ecc69d433e6f1b6bbb4b53e0950ca48f2765b6e520bcefd54adf1ba777f812/original.jpg
+    sha256: c9ecc69d433e6f1b6bbb4b53e0950ca48f2765b6e520bcefd54adf1ba777f812
+    mime: image/jpeg
+    bytes: 8633894
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/c9/ec/c9ecc69d433e6f1b6bbb4b53e0950ca48f2765b6e520bcefd54adf1ba777f812/preview-400.242bc63329c1.jpg
+        sha256: 242bc63329c11d9eb8a717ca89243876bd1c236ecd6b0f762c1661ea7e2eeb45
+        mime: image/jpeg
+        bytes: 21793
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

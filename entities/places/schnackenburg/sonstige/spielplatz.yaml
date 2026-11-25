@@ -1,0 +1,8 @@
+id: schnackenburg/sonstige/spielplatz
+type: place
+name: Spielplatz Schnackenburg
+kind: other
+parent: schnackenburg
+location:
+  lat: 52.98763
+  lon: 11.55949

@@ -1,0 +1,33 @@
+id: 01hf80gcj03pdhz9bkab0599d9
+type: object
+kind: image
+subtype: photo
+title: Zollweg in den Siebzigern
+alt: "Zollweg im Abendlicht: das Gebäude von der Straße aus."
+origin:
+  by:
+    - lars-doerries
+license: cc-by-sa-4.0
+date: 1992-06-10
+about:
+  - schnackenburg/zollweg
+files:
+  - role: main
+    original_name: IMG_2735.jpg
+    path: files/55/c1/55c17abae08aeb03c2a6c533f4319f9134d83f949ecd8b8cbb204215d431eb44/original.jpg
+    sha256: 55c17abae08aeb03c2a6c533f4319f9134d83f949ecd8b8cbb204215d431eb44
+    mime: image/jpeg
+    bytes: 4313802
+    width: 4000
+    height: 2667
+    variants:
+      - kind: preview
+        path: files/55/c1/55c17abae08aeb03c2a6c533f4319f9134d83f949ecd8b8cbb204215d431eb44/preview-400.fe91ff43155a.jpg
+        sha256: fe91ff43155a98c251c870711e59677c74144b9dcc8a3acbf17130b8c4721ccb
+        mime: image/jpeg
+        bytes: 30208
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

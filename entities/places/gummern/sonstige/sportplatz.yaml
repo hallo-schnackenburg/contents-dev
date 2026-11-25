@@ -1,0 +1,8 @@
+id: gummern/sonstige/sportplatz
+type: place
+name: Sportplatz Gummern
+kind: other
+parent: gummern
+location:
+  lat: 52.98303
+  lon: 11.57228

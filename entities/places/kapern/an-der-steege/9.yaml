@@ -1,0 +1,8 @@
+id: kapern/an-der-steege/9
+type: place
+name: An der Steege 9
+kind: building
+parent: kapern/an-der-steege
+location:
+  lat: 52.97187
+  lon: 11.55188

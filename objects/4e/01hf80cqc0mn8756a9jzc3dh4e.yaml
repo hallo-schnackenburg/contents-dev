@@ -1,0 +1,33 @@
+id: 01hf80cqc0mn8756a9jzc3dh4e
+type: object
+kind: image
+subtype: photo
+title: Gewertsweg 11 in den Siebzigern
+alt: "Gewertsweg 11 im Abendlicht: mehrere Menschen im Vordergrund."
+origin:
+  by:
+    - elke-pannier
+license: cc0-1.0
+date: 1967-04-22
+about:
+  - schnackenburg/gewertsweg/11
+files:
+  - role: main
+    original_name: IMG_6870.jpg
+    path: files/34/68/34687e2de25040a2636b0ca53002edc3cfb5740968c0a2c37227804faeea8744/original.jpg
+    sha256: 34687e2de25040a2636b0ca53002edc3cfb5740968c0a2c37227804faeea8744
+    mime: image/jpeg
+    bytes: 7735864
+    width: 6000
+    height: 4000
+    variants:
+      - kind: preview
+        path: files/34/68/34687e2de25040a2636b0ca53002edc3cfb5740968c0a2c37227804faeea8744/preview-400.c156aef0a7aa.jpg
+        sha256: c156aef0a7aafb62f82ee02fd51c4b4762ce8cb0917eb2a9979aa231c8bf66d4
+        mime: image/jpeg
+        bytes: 58958
+        width: 400
+        height: 267
+        generator:
+          name: sharp
+          version: 0.34.0

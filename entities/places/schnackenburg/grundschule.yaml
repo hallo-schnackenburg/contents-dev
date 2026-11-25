@@ -1,0 +1,9 @@
+id: schnackenburg/grundschule
+type: place
+name: Grundschule Schnackenburg
+kind: building
+parent: schnackenburg/gewertsweg
+location:
+  lat: 52.99615
+  lon: 11.56311
+address: Gewertsweg 43, 29493 Schnackenburg

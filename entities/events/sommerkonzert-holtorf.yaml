@@ -1,0 +1,9 @@
+id: sommerkonzert-holtorf
+type: event
+name: Sommerkonzert Holtorf
+dates:
+  - start: 2026-09-08
+organizers:
+  - rainer-kruse
+places:
+  - holtorf/sonstige/elbdeich
