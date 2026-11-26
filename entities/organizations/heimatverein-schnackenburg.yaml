@@ -2,8 +2,8 @@ id: heimatverein-schnackenburg
 type: organization
 name: Heimatverein Schnackenburg
 places:
-  - schnackenburg/kindergarten
-  - schnackenburg/feuerwehrhaus
+  - schnackenburg/alandstrasse/kindergarten
+  - schnackenburg/gartenstrasse/feuerwehrhaus
 links:
   - label: Webseite
     url: https://example.org/heimatverein-schnackenburg
