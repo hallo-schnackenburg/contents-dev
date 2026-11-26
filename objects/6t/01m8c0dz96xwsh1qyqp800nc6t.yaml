@@ -3,3 +3,4 @@ type: object
 title: "Sammlung A"
 kind: group
 subtype: collection
+storage: local
