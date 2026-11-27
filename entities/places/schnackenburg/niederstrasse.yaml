@@ -1,8 +1,0 @@
-id: schnackenburg/niederstrasse
-type: place
-name: Niederstraße
-kind: street
-parent: schnackenburg
-location:
-  lat: 53.037062
-  lon: 11.567188
