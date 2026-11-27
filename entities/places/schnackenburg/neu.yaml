@@ -1,0 +1,7 @@
+id: schnackenburg/neu
+type: place
+parent: schnackenburg
+kind: street
+location:
+  lat: 53.037062
+  lon: 11.567188
