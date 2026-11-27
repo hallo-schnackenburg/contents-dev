@@ -1,7 +1,7 @@
 id: schnackenburg/elbstrasse
 type: place
 parent: schnackenburg
-name: Elbstrasse
+name: Elbstraße
 kind: street
 location:
   lat: 53.03774
