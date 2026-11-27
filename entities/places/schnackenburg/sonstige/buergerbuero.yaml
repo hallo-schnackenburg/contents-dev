@@ -1,0 +1,11 @@
+id: schnackenburg/sonstige/buergerbuero
+type: place
+name: Bürgerbüro
+tags:
+  - _stub
+kind: building
+parent: schnackenburg
+location:
+  lat: 53.03808
+  lon: 11.56533
+address: Elbstrasse 9
