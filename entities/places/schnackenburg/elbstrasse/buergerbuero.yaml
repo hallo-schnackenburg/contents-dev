@@ -1,8 +1,6 @@
 id: schnackenburg/elbstrasse/buergerbuero
 type: place
 name: Bürgerbüro
-tags:
-  - _stub
 kind: building
 parent: schnackenburg/elbstrasse
 location:
