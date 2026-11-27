@@ -1,0 +1,10 @@
+id: schnackenburg/niedernstrasse
+type: place
+name: "Niedernstrasse"
+kind: street
+parent: schnackenburg
+location:
+  lat: 53.0367436
+  lon: 11.5658633
+tags:
+  - _stub

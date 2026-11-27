@@ -1,0 +1,10 @@
+id: schnackenburg/grabenstrasse
+type: place
+name: "Grabenstrasse"
+kind: street
+parent: schnackenburg
+location:
+  lat: 53.0374889
+  lon: 11.5646633
+tags:
+  - _stub
