@@ -1,8 +1,0 @@
-id: schnackenburg/elbstrasse
-type: place
-parent: schnackenburg
-name: Elbstraße
-kind: street
-location:
-  lat: 53.03774
-  lon: 11.5666
