@@ -1,0 +1,8 @@
+id: schnackenburg
+type: place
+kind: locality
+name: Schnackenburg
+location:
+  lat: 53.03647
+  lon: 11.56448
+postal_code: "29493"

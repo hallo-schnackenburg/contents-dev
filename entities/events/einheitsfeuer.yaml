@@ -3,3 +3,8 @@ type: event
 name: Einheitsfeuer
 tags:
   - _stub
+recurring: true
+rule:
+  rrule: FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=3
+  start: 2026-11-27
+schedule: jährlich im Oktober

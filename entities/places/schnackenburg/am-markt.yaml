@@ -1,0 +1,8 @@
+id: schnackenburg/am-markt
+type: place
+parent: schnackenburg
+kind: street
+location:
+  lat: 53.037062
+  lon: 11.567188
+name: Am Markt

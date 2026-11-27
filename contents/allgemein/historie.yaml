@@ -2,7 +2,10 @@ id: historie
 type: content
 title: Historie
 published: 2024-05-30
-about: [sonstige/schnackenburg, sonstige/luetkenwisch, sonstige/marktplatz, sonstige/hermann-ahrens-bruecke]
+about:
+  - sonstige/luetkenwisch
+  - schnackenburg/marktplatz
+  - schnackenburg/hermann-ahrens-bruecke
 text:
   body: |
     ## Schnackenburger Geschichte

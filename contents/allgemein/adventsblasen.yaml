@@ -2,7 +2,8 @@ id: adventsblasen
 type: content
 title: Adventsblasen
 published: 2025-03-31
-about: [sonstige/schnackenburg, posaunenchor]
+about:
+  - posaunenchor
 text:
   body: |
     ## Festliche Lieder in gemütlicher Atmosphäre

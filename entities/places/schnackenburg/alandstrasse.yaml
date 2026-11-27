@@ -1,0 +1,8 @@
+id: schnackenburg/alandstrasse
+type: place
+name: Alandstraße
+kind: street
+parent: schnackenburg
+location:
+  lat: 53.03483
+  lon: 11.56177

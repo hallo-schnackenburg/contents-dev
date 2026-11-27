@@ -1,0 +1,10 @@
+id: schnackenburg/gartenstrasse
+type: place
+name: Gartenstraße
+kind: street
+parent: schnackenburg
+location:
+  lat: 53.0366115
+  lon: 11.5623574
+tags:
+  - _stub
