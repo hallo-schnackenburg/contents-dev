@@ -1,0 +1,7 @@
+id: schnackenburg/alandstrasse
+type: place
+name: "Alandstrasse"
+kind: street
+parent: schnackenburg
+tags:
+  - _stub

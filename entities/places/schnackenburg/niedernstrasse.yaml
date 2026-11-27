@@ -1,0 +1,7 @@
+id: schnackenburg/niedernstrasse
+type: place
+name: "Niedernstrasse"
+kind: street
+parent: schnackenburg
+tags:
+  - _stub
