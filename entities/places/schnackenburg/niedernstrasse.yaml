@@ -5,3 +5,6 @@ kind: street
 parent: schnackenburg
 tags:
   - _stub
+location:
+  lat: 53.037062
+  lon: 11.567188

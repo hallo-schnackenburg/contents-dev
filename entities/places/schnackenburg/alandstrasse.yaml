@@ -3,5 +3,6 @@ type: place
 name: "Alandstrasse"
 kind: street
 parent: schnackenburg
-tags:
-  - _stub
+location:
+  lat: 53.03483
+  lon: 11.56177
