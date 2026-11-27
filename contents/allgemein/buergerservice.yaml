@@ -2,7 +2,21 @@ id: buergerservice
 type: content
 title: Bürgerservice
 published: 2025-04-29
-about: [sonstige/schnackenburg, sonstige/holtorf, sonstige/kapern, sonstige/gummern, hallo-schnackenburg-verein-fuer-medien-und-kommunikation, sonstige/elbstr-9, samtgemeinde-gartow, matthias-koehler, julia-schaefer, andrea-rosowski, pierre-ploetner, juergen-steinfurth, inga-burmeister, max-koehler, sebastian-koch]
+about:
+  - sonstige/holtorf
+  - sonstige/kapern
+  - sonstige/gummern
+  - hallo-schnackenburg-verein-fuer-medien-und-kommunikation
+  - sonstige/elbstr-9
+  - samtgemeinde-gartow
+  - matthias-koehler
+  - julia-schaefer
+  - andrea-rosowski
+  - pierre-ploetner
+  - juergen-steinfurth
+  - inga-burmeister
+  - max-koehler
+  - sebastian-koch
 text:
   body: |
     ## Stadt Schnackenburg
