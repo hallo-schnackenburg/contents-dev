@@ -1,6 +1,8 @@
 id: schnackenburg/hermann-ahrens-bruecke
 type: place
 name: Hermann-Ahrens-Brücke
-tags:
-  - _stub
 parent: schnackenburg
+kind: other
+location:
+  lat: 53.03561
+  lon: 11.56668
