@@ -1,7 +1,8 @@
-id: einheitsfeuer
+id: einheitsfeuer-text
 type: content
 title: Einheitsfeuer
 published: 2025-03-27
+about: [einheitsfeuer, sonstige/schnackenburg, sonstige/luetkenwisch, sonstige/lanz, karl-hans-john, hans-borchert, freiwillige-feuerwehr, sonstige/marktplatz]
 text:
   body: |
     ![Einheitsfeuer am Elbufer in Lütkenwisch 2026](https://schnackenburg.de/wp-content/uploads/2026/10/Einheitsfeier_001.jpg)

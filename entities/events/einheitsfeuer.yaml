@@ -1,0 +1,5 @@
+id: einheitsfeuer
+type: event
+name: Einheitsfeuer
+tags:
+  - _stub
