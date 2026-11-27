@@ -4,3 +4,8 @@ name: Marktplatz
 tags:
   - _stub
 parent: schnackenburg
+location:
+  lat: 53.037062
+  lon: 11.567188
+kind: square
+address: Am Markt
