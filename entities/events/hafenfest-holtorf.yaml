@@ -1,9 +1,0 @@
-id: hafenfest-holtorf
-type: event
-name: Hafenfest Holtorf
-recurring: true
-organizers:
-  - silke-harms
-  - frank-juergens
-places:
-  - holtorf/gasthaus

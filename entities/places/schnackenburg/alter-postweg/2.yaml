@@ -1,9 +1,0 @@
-id: schnackenburg/alter-postweg/2
-type: place
-name: Alter Postweg 2
-kind: building
-parent: schnackenburg/alter-postweg
-location:
-  lat: 52.98737
-  lon: 11.55825
-address: Alter Postweg 2, 29493 Schnackenburg

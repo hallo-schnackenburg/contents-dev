@@ -1,9 +1,0 @@
-id: flohmarkt-gummern
-type: event
-name: Flohmarkt Gummern
-recurring: true
-organizers:
-  - friedrich-thiele
-  - imke-koehler
-places:
-  - gummern/sonstige/elbdeich

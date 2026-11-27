@@ -1,9 +1,0 @@
-id: kinoabend-kapern
-type: event
-name: Kinoabend Kapern
-recurring: true
-organizers:
-  - birgit-kaehlert
-  - frank-hartmann
-places:
-  - kapern/an-der-steege/grundschule

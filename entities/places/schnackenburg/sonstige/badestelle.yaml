@@ -1,8 +1,0 @@
-id: schnackenburg/sonstige/badestelle
-type: place
-name: Badestelle Schnackenburg
-kind: other
-parent: schnackenburg
-location:
-  lat: 52.99295
-  lon: 11.55894

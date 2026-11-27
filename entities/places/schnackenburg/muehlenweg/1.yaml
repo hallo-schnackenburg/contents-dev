@@ -1,9 +1,0 @@
-id: schnackenburg/muehlenweg/1
-type: place
-name: Mühlenweg 1
-kind: building
-parent: schnackenburg/muehlenweg
-location:
-  lat: 52.98855
-  lon: 11.5615
-address: Mühlenweg 1, 29493 Schnackenburg

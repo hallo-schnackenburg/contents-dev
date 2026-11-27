@@ -1,9 +1,0 @@
-id: schnackenburg/gewertsweg/11
-type: place
-name: Gewertsweg 11
-kind: building
-parent: schnackenburg/gewertsweg
-location:
-  lat: 52.98896
-  lon: 11.55555
-address: Gewertsweg 11, 29493 Schnackenburg

@@ -1,9 +1,0 @@
-id: kulturverein-kapern
-type: organization
-name: Kulturverein Kapern
-places:
-  - kapern/an-der-steege/grundschule
-  - kapern/sonstige/elbdeich
-links:
-  - label: Webseite
-    url: https://example.org/kulturverein-kapern

@@ -1,9 +1,0 @@
-id: schnackenburg/alandstrasse/kindergarten
-type: place
-name: Kindergarten Schnackenburg
-kind: building
-parent: schnackenburg/alandstrasse
-location:
-  lat: 52.98793
-  lon: 11.55496
-address: Alandstraße 7, 29493 Schnackenburg

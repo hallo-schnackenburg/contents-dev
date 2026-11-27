@@ -1,9 +1,0 @@
-id: schnackenburg/niedernstrasse/6
-type: place
-name: Niedernstraße 6
-kind: building
-parent: schnackenburg/niedernstrasse
-location:
-  lat: 52.99666
-  lon: 11.55376
-address: Niedernstraße 6, 29493 Schnackenburg

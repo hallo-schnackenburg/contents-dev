@@ -1,9 +1,0 @@
-id: flohmarkt-schnackenburg
-type: event
-name: Flohmarkt Schnackenburg
-recurring: true
-organizers:
-  - silke-harms
-  - frank-ulrich
-places:
-  - schnackenburg/sonstige/badestelle

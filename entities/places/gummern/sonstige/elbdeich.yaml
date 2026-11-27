@@ -1,8 +1,0 @@
-id: gummern/sonstige/elbdeich
-type: place
-name: Elbdeich Gummern
-kind: other
-parent: gummern
-location:
-  lat: 52.98933
-  lon: 11.57394

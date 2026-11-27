@@ -1,9 +1,0 @@
-id: kapern/an-der-steege/1
-type: place
-name: An der Steege 1
-kind: building
-parent: kapern/an-der-steege
-location:
-  lat: 52.96691
-  lon: 11.54597
-address: An der Steege 1, 29493 Schnackenburg

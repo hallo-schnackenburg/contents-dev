@@ -1,9 +1,0 @@
-id: holtorf/2
-type: place
-name: Holtorf 2
-kind: building
-parent: holtorf
-location:
-  lat: 52.97837
-  lon: 11.53866
-address: Holtorf 2, 29493 Schnackenburg

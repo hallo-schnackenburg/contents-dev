@@ -1,9 +1,0 @@
-id: kapern/dorfstrasse/3
-type: place
-name: Dorfstraße 3
-kind: building
-parent: kapern/dorfstrasse
-location:
-  lat: 52.96575
-  lon: 11.55335
-address: Dorfstraße 3, 29493 Schnackenburg

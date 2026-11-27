@@ -1,9 +1,0 @@
-id: holtorf/4
-type: place
-name: Holtorf 4
-kind: building
-parent: holtorf
-location:
-  lat: 52.97411
-  lon: 11.54204
-address: Holtorf 4, 29493 Schnackenburg

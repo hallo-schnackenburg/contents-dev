@@ -1,8 +1,0 @@
-id: flohmarkt-holtorf
-type: event
-name: Flohmarkt Holtorf
-recurring: true
-organizers:
-  - gemeinde-holtorf
-places:
-  - holtorf/gasthaus

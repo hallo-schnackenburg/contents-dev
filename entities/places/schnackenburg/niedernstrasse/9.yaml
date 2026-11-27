@@ -1,9 +1,0 @@
-id: schnackenburg/niedernstrasse/9
-type: place
-name: Niedernstraße 9
-kind: building
-parent: schnackenburg/niedernstrasse
-location:
-  lat: 52.99118
-  lon: 11.56037
-address: Niedernstraße 9, 29493 Schnackenburg

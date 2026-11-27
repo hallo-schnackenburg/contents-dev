@@ -1,9 +1,0 @@
-id: adventssingen-kapern
-type: event
-name: Adventssingen Kapern
-recurring: true
-organizers:
-  - frank-ulrich
-  - posaunenchor-kapern
-places:
-  - kapern/an-der-steege/grundschule

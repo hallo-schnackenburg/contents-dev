@@ -1,9 +1,0 @@
-id: elbuferlauf-kapern
-type: event
-name: Elbuferlauf Kapern
-recurring: true
-organizers:
-  - rainer-kruse
-  - silke-harms
-places:
-  - kapern/sonstige/elbdeich

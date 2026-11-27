@@ -1,9 +1,0 @@
-id: adventssingen-holtorf
-type: event
-name: Adventssingen Holtorf
-recurring: true
-organizers:
-  - renate-voss
-  - klaus-koehler
-places:
-  - holtorf/gasthaus

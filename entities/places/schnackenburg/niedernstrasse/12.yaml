@@ -1,9 +1,0 @@
-id: schnackenburg/niedernstrasse/12
-type: place
-name: Niedernstraße 12
-kind: building
-parent: schnackenburg/niedernstrasse
-location:
-  lat: 52.9907
-  lon: 11.5589
-address: Niedernstraße 12, 29493 Schnackenburg

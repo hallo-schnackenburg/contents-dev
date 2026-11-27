@@ -1,9 +1,0 @@
-id: faehrfest-gummern
-type: event
-name: Fährfest Gummern
-recurring: true
-organizers:
-  - birgit-seeger
-  - kirchengemeinde-gummern
-places:
-  - gummern/sonstige/sportplatz

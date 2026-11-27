@@ -1,9 +1,0 @@
-id: schnackenburg/gewertsweg/12
-type: place
-name: Gewertsweg 12
-kind: building
-parent: schnackenburg/gewertsweg
-location:
-  lat: 52.99338
-  lon: 11.55798
-address: Gewertsweg 12, 29493 Schnackenburg

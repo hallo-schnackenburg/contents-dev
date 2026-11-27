@@ -1,9 +1,0 @@
-id: weihnachtsmarkt-kapern
-type: event
-name: Weihnachtsmarkt Kapern
-recurring: true
-organizers:
-  - gemeinde-kapern
-  - birgit-kaehlert
-places:
-  - kapern/an-der-steege/grundschule

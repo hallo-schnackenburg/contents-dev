@@ -1,9 +1,0 @@
-id: holtorf/gasthaus
-type: place
-name: Gasthaus Holtorf
-kind: building
-parent: holtorf
-location:
-  lat: 52.97857
-  lon: 11.53554
-address: Holtorf 29, 29493 Holtorf
