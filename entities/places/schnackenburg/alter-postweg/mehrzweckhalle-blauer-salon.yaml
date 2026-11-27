@@ -1,0 +1,8 @@
+id: schnackenburg/alter-postweg/mehrzweckhalle-blauer-salon
+type: place
+kind: building
+name: Mehrzweckhalle (Blauer Salon)
+tags:
+  - Veranstaltungsort
+address: Nr 3
+parent: schnackenburg/alter-postweg
