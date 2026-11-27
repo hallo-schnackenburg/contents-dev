@@ -1,5 +1,7 @@
 id: matthias-koehler
 type: person
 name: Matthias Köhler
-tags:
-  - _stub
+relations:
+  - kind: mayor
+    with: schnackenburg
+    period: 2022/
