@@ -1,10 +1,10 @@
-id: schnackenburg/buergerbuero
+id: schnackenburg/elbstrasse/buergerbuero
 type: place
 name: Bürgerbüro
 tags:
   - _stub
 kind: building
-parent: schnackenburg
+parent: schnackenburg/elbstrasse
 location:
   lat: 53.03808
   lon: 11.56533
